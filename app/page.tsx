@@ -159,7 +159,7 @@ export default function Portfolio() {
         <div className="text-center max-w-4xl mx-auto">
           <div className="mb-8 animate-in fade-in duration-1000">
             <Avatar className="w-32 h-32 mx-auto mb-6 ring-4 ring-purple-400/50 animate-pulse">
-              <AvatarImage src="/placeholder.svg?height=128&width=128" alt="Bassiriki Mangane" />
+              <AvatarImage src="/siriki.png?height=128&width=128" alt="Bassiriki Mangane" />
               <AvatarFallback className="text-2xl bg-purple-600">BM</AvatarFallback>
             </Avatar>
           </div>
